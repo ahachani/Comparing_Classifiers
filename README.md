@@ -42,7 +42,7 @@ The project involves the following steps:
      - Logistic Regression
      - Support Vector Machines (SVM)
      - Decision Trees
-   - Split data into training and test sets (70% training, 30% testing).
+   - Split data into training and test sets (80% training, 20% testing).
    - Trained models and made predictions.
 
 3. **Evaluation:**
